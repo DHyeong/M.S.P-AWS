@@ -123,19 +123,29 @@ https://humorous-sale-626.notion.site/Server-6f2066599d1a4e5d82eebe54048eadec?pv
 ## 🖥️ 화면 UI
 
 - main<br/>
-![image22](https://github.com/joongpyo/M.S.P/assets/143946770/14a66f51-7f7c-48af-b5db-220400e665da)
-![image23](https://github.com/joongpyo/M.S.P/assets/143946770/3a1c51b6-5057-4ab0-bc3f-a50e320b36b5)
-![image24](https://github.com/joongpyo/M.S.P/assets/143946770/b35803e3-6e0c-4f67-8974-c5ad2dbfbfe8)
+![메인화면 1번](https://github.com/DHyeong/M.S.P-AWS/assets/144645657/d22041a6-8eef-4dd7-a97b-5940d0b44690)
+![메인화면 2번](https://github.com/DHyeong/M.S.P-AWS/assets/144645657/34ecf267-4e1c-488f-b53b-3f501bad4b2d)
+![메인화면 3번](https://github.com/DHyeong/M.S.P-AWS/assets/144645657/d289c827-4950-4f65-9272-19439058b644)
+
+-search<br/>
+![검색 1번](https://github.com/DHyeong/M.S.P-AWS/assets/144645657/6836052b-acc2-4b4b-9a6f-b98a5a1fbe33)
+![검색 결과 1번](https://github.com/DHyeong/M.S.P-AWS/assets/144645657/7de554a9-223c-4bd6-b291-cce12091ef12)
 
 - board<br/>
 ![image25](https://github.com/joongpyo/M.S.P/assets/143946770/4bc82246-228a-4432-a25a-54b3203bb0ff)
 ![image26](https://github.com/joongpyo/M.S.P/assets/143946770/c342bdca-1753-45e5-a943-4d1d02203b09)
+
+- login<br/>
+![로그인 1번](https://github.com/DHyeong/M.S.P-AWS/assets/144645657/775b9449-1897-4733-b8ce-9a8396fac894)
+![회원가입 1번](https://github.com/DHyeong/M.S.P-AWS/assets/144645657/b2c13ced-2fde-4f4b-b505-e4375899fadf)
+![아이디찾기 1번](https://github.com/DHyeong/M.S.P-AWS/assets/144645657/0ee16a17-fdcb-44df-844e-ac4cd5a8c9c9)
 
 - My Page<br/>
 ![image27](https://github.com/joongpyo/M.S.P/assets/143946770/92405480-e8cb-43f7-9ce1-47c35559b9ac)
 
 - Admin Page<br/>
 ![image28](https://github.com/joongpyo/M.S.P/assets/143946770/2f97428c-7ec8-4885-b8dd-3e228f7c871e)
+![게시판 등록 1번](https://github.com/DHyeong/M.S.P-AWS/assets/144645657/8da85397-f292-4f64-b6a4-b1c5765a3736)
 
 
 
