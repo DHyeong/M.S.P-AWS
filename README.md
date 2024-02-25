@@ -57,9 +57,13 @@
 </div>
  <p><strong>Version Control</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">  
-    </div><br>
+        <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
+    </div>
 </div>
+<p><strong>Cloud</strong></p>
+    <div>        
+        <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">     
+    </div>
 
 
    <br/>
@@ -132,8 +136,9 @@ https://humorous-sale-626.notion.site/Server-6f2066599d1a4e5d82eebe54048eadec?pv
 ![검색 결과 1번](https://github.com/DHyeong/M.S.P-AWS/assets/144645657/7de554a9-223c-4bd6-b291-cce12091ef12)
 
 - board<br/>
-![image25](https://github.com/joongpyo/M.S.P/assets/143946770/4bc82246-228a-4432-a25a-54b3203bb0ff)
-![image26](https://github.com/joongpyo/M.S.P/assets/143946770/c342bdca-1753-45e5-a943-4d1d02203b09)
+![게시판 화면 1번](https://github.com/DHyeong/M.S.P-AWS/assets/144645657/cbf97c26-dd15-4513-8526-7b8a909d3145)
+![게시판 화면 2번](https://github.com/DHyeong/M.S.P-AWS/assets/144645657/ea6931de-7137-4ce2-88ba-e0d08d32dc56)
+
 
 - login<br/>
 ![로그인 1번](https://github.com/DHyeong/M.S.P-AWS/assets/144645657/775b9449-1897-4733-b8ce-9a8396fac894)
@@ -141,10 +146,12 @@ https://humorous-sale-626.notion.site/Server-6f2066599d1a4e5d82eebe54048eadec?pv
 ![아이디찾기 1번](https://github.com/DHyeong/M.S.P-AWS/assets/144645657/0ee16a17-fdcb-44df-844e-ac4cd5a8c9c9)
 
 - My Page<br/>
-![image27](https://github.com/joongpyo/M.S.P/assets/143946770/92405480-e8cb-43f7-9ce1-47c35559b9ac)
+![마이페이지 1번](https://github.com/DHyeong/M.S.P-AWS/assets/144645657/8dd5ba1b-3b14-43fb-88f4-ccb4a6863d4f)
+
 
 - Admin Page<br/>
-![image28](https://github.com/joongpyo/M.S.P/assets/143946770/2f97428c-7ec8-4885-b8dd-3e228f7c871e)
+![관리자 메인 1번](https://github.com/DHyeong/M.S.P-AWS/assets/144645657/c2c08cb2-4818-481d-a0ea-7c9e21f05cf1)
+![약품등록 1번](https://github.com/DHyeong/M.S.P-AWS/assets/144645657/1a1b78fe-5f2f-462e-ab11-be9d6d3971e9)
 ![게시판 등록 1번](https://github.com/DHyeong/M.S.P-AWS/assets/144645657/8da85397-f292-4f64-b6a4-b1c5765a3736)
 
 
