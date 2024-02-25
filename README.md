@@ -1,6 +1,6 @@
 <br/>
 
-# 💊 약 데이터 정보 검색 사이트 - Medicine Search Project(M.S.P)
+# 일반의약품, 의약외품 데이터 정보 검색 사이트 - Medicine Search Project(M.S.P)
 
 > 프로젝트 수행 기간 :  2023.12.11 ~ 2024.1.16
 
@@ -64,8 +64,6 @@
     <div>        
         <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">     
     </div>
-
-
    <br/>
    <br/>
 
@@ -148,12 +146,12 @@ https://humorous-sale-626.notion.site/Server-6f2066599d1a4e5d82eebe54048eadec?pv
 - My Page<br/>
 ![마이페이지 1번](https://github.com/DHyeong/M.S.P-AWS/assets/144645657/8dd5ba1b-3b14-43fb-88f4-ccb4a6863d4f)
 
-
 - Admin Page<br/>
 ![관리자 메인 1번](https://github.com/DHyeong/M.S.P-AWS/assets/144645657/c2c08cb2-4818-481d-a0ea-7c9e21f05cf1)
 ![약품등록 1번](https://github.com/DHyeong/M.S.P-AWS/assets/144645657/1a1b78fe-5f2f-462e-ab11-be9d6d3971e9)
 ![게시판 등록 1번](https://github.com/DHyeong/M.S.P-AWS/assets/144645657/8da85397-f292-4f64-b6a4-b1c5765a3736)
 
+## 성과  
 
 
 
